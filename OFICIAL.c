@@ -33,7 +33,7 @@ int redaccion[10];
 int i = 0, confirmando = 0, p = 0,w=0,r=0; /*confirmando vendria siendo la variable bool para saber el grupo en que esta*/
 /*---------------------------------------------------------------------------------------------------------------------------------------*/
 /*prototipamos las funciones*/
-void menu_vista(void);
+
 int menu(void);
 void home(void);
 void add(void);
